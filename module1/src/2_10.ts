@@ -1,0 +1,4 @@
+{
+    //maped types
+    
+}
